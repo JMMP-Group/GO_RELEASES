@@ -1,6 +1,6 @@
  
 
-# GOSI9p8_eORCA025-EXPREF
+# GOSI9p8_eORCA025
 ___
 
 [Purpose](#purpose)  |  [Contact](#contact)  |  [License](#license)  |  [Configuration](#configuration) | [Input Files](#input-files)  |  [Diagnostics](#diagnostics)  | [Installation](#installation)
