@@ -17,7 +17,7 @@ def symlink_ancils(ini_file, download_folder, work_folder):
             z = line.split(',')
             input_file = z[2].split('/')[-1].strip()
             target_linkname = z[0]
-            if target_linkname = "SURFACE_FORCING_DIR":
+            if target_linkname == "SURFACE_FORCING_DIR":
                 target_linkname = input_file
             print('Linking +'+input_file+'+ to +'+target_linkname+'+')
             print('Source : '+os.path.join(download_folder,input_file))
