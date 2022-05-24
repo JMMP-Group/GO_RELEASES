@@ -67,19 +67,20 @@ DELDEL//-->
 
 | **NEMO Input File** | **Reference (DOI)** | **Download** |
 | ------------------ | ------------------ | ------------------ | 
-| temperature_clim.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/initial/EN.4.1.1.f.analysis.g10.1995-2014.eORCA025.teos10.nc) |
-| subbasins.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/grids/subbasins_CMIP6.nc) |
-| sss_1m.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/ancil/sss_1m_teos10.nc) |
-| shlat2d.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/ancil/shlat2d_eORCA025_southps.nc) |
-| salinity_clim.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/initial/EN.4.1.1.f.analysis.g10.1995-2014.eORCA025.teos10.nc) |
-| runoff_1m_nomask.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/forcing/eORCA025_runoff_GO6_icb.nc) |
-| mask_itf.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/ancil/mask_itf_ORCA025ext.nc) |
-| geothermal_heating.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/forcing/geothermal_heating_orca025ext_extrap40.nc) |
-| domain_cfg.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/grids/domcfg_eORCA025_v2.nc) |
-| calving.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/forcing/eORCA025_calving_v2.3.nc) |
-| bfr_coef.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/ancil/bfr_coef.nc) |
-| M2rowdrg.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/ancil/M2rowdrg_R025_modif_nonpositive.nc) |
-| K1rowdrg.nc |   | [download](http://gws-access.jasmin.ac.uk/public/mohc_shared/nemo-ancils/ancil/K1rowdrg_R025_modif_nonpositive.nc) |
+| temperature_clim.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/EN.4.1.1.f.analysis.g10.1995-2014.eORCA025.teos10.nc) |
+| subbasins.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/subbasins_CMIP6.nc) |
+| sss_1m.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/sss_1m_teos10.nc) |
+| shlat2d.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/shlat2d_eORCA025_southps.nc) |
+| salinity_clim.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/EN.4.1.1.f.analysis.g10.1995-2014.eORCA025.teos10.nc) |
+| runoff_1m_nomask.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/eORCA025_runoff_GO6_icb.nc) |
+| mask_itf.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/mask_itf_ORCA025ext.nc) |
+| geothermal_heating.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/geothermal_heating_orca025ext_extrap40.nc) |
+| domain_cfg.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/domcfg_eORCA025_v2.nc) |
+| calving.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/eORCA025_calving_v2.3.nc) |
+| bfr_coef.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/bfr_coef.nc) |
+| M2rowdrg.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/M2rowdrg_R025_modif_nonpositive.nc) |
+| K1rowdrg.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/K1rowdrg_R025_modif_nonpositive.nc) |
+| restart_ice.nc |   | [download](http://gws-access.jasmin.ac.uk/public/jmmp_collab/eORCA025/ci818o_19761201_restart_ice.nc) |
 
 
 
