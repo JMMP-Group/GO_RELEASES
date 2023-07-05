@@ -1,0 +1,13 @@
+temperature_clim.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/EN.4.1.1.f.analysis.g10.1995-2014.eORCA12.temperature.teos10.nc
+subbasins.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/subbasinmask_eORCA12_v2.4_CMIP6.nc
+sss_1m.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/EN.4.1.1.f.analysis.g10.1995-2014.eORCA12.SSS.teos10.nc
+shlat2d.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/shlat2d_eORCA12_southps.nc
+salinity_clim.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/EN.4.1.1.f.analysis.g10.1995-2014.eORCA12.salinity.teos10.nc
+runoff_1m_nomask.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/eORCA12_runoff_GO6_icb.nc
+mask_itf.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/eORCA12_msk_itf.nc
+geothermal_heating.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/Goutorbe_ghflux.nc
+domain_cfg.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/domaincfg_eORCA12_v3.0.nc
+calving.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/eORCA12_calving_v2.4.nc
+bfr_coef.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/eORCA12_bfr2d_UKmod.nc
+M2rowdrg.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/eORCA12_M2_lbclnk_corrected.nc
+K1rowdrg.nc, 288b021a8595efeee8de7c4fb665d3037bd356a72ca13e591bb81acc5c3ceeb5, https://gws-access.jasmin.ac.uk/public/jmmp/GOSI9_eORCA12_config/eORCA12_inputs/eORCA12_K1_lbclnk_corrected.nc
